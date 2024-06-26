@@ -8,4 +8,7 @@ This calculator should help architects make these necessary calculations in an e
 This calculator is designed to help architects calculate:
   1. the maximum allowable covered area for the project
   2. the maximum allowed ground coverage for the ground floor of the building.
-the calculator also seeks 'unit' input from the user to make the process user friendly and interactive. 
+the calculator also seeks 'unit' input from the user to make the process user friendly and interactive.
+
+**Sample.png**
+This image gives an example of the FAR and ground coverage restrictions in a book of bylaws.
